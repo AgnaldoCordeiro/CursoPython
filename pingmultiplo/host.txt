@@ -1,0 +1,6 @@
+www.google.com
+8.8.8.8
+www.youtube.com.br
+www.pudim.com.br
+4.4.4.4
+192.168.0.20
